@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(223, 223, 224);
+    padding: 0%;
+}
+
+header{
+    text-align: center;
+    margin: 3vh;
+    font-size: medium;
+    background-color: rgb(254, 255, 255);
+    color: rgb(78, 78, 78);
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 9vh;
+    text-align: center;
+    color: rgb(24, 24, 24);
+}
+nav{
+    text-align: center;
+    margin: 5vh;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+    width: 190px;
+    height: 254px;
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow: 20px 20px 60px #bebebe,
+                  -20px -20px 60px #ffffff;
+   }
